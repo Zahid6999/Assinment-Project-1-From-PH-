@@ -1,3 +1,9 @@
+
+
+
+
+
+
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -176,5 +182,32 @@ h3{
 }
 
 
-/*  */
+/* update section  */
 
+.update h1{
+  text-align: center;
+  font-size: 75px;
+  
+}
+
+.update p{
+     color: rgb(99, 97, 66);
+}
+
+footer{
+    height: 250px;
+    background-color: black;
+}
+
+footer h1{
+    color: red;
+    text-align: center;
+    padding-top: 120px;
+    @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;500;600;700;800&family=Poppins:wght@100;200;500;600;700;800;900&family=Roboto&family=The+Nautigal:wght@700&family=Ubuntu:ital,wght@0,300;0,400;1,700&display=swap');
+    font-family: 'The Nautigal', cursive;
+    font-size: 35px;
+}
+footer p{
+    color: antiquewhite;
+    font-size: 18px;
+}
